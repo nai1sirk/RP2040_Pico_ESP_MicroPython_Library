@@ -9,6 +9,6 @@ Create a library that works like the real Pico-W
 
 
 # Project Status
-
+Research phase, no changes have been made
 
 
